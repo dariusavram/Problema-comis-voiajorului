@@ -4,7 +4,7 @@
 Această aplicație implementează un **algoritm genetic** pentru rezolvarea **Problemei Comis-Voiajorului (TSP)**. Scopul este de a găsi cea mai scurtă rută între un set de orașe, pornind și revenind la un oraș-sediu, utilizând o matrice de distanțe predefinită.
 
 ## Funcționalități
-- **Încărcarea unei matrice de distanțe** dintr-un fișier.
+- **Încărcarea unei matrice de distanțe** dintr-un fișier(`distante.txt`).
 - **Generarea unei populații inițiale** de rute aleatorii.
 - **Calculul fitness-ului** pentru fiecare rută pe baza distanței totale parcurse.
 - **Selecție prin turnir** – alege cei mai buni candidați pentru reproducere.
